@@ -1,0 +1,14 @@
+c:\PRACTICA\ArbolBinarioApp1\bin\Debug\net10.0\ArbolBinarioApp1.exe
+c:\PRACTICA\ArbolBinarioApp1\bin\Debug\net10.0\ArbolBinarioApp1.deps.json
+c:\PRACTICA\ArbolBinarioApp1\bin\Debug\net10.0\ArbolBinarioApp1.runtimeconfig.json
+c:\PRACTICA\ArbolBinarioApp1\bin\Debug\net10.0\ArbolBinarioApp1.dll
+c:\PRACTICA\ArbolBinarioApp1\bin\Debug\net10.0\ArbolBinarioApp1.pdb
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.AssemblyInfoInputs.cache
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.AssemblyInfo.cs
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.csproj.CoreCompileInputs.cache
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.dll
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\refint\ArbolBinarioApp1.dll
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.pdb
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ArbolBinarioApp1.genruntimeconfig.cache
+c:\PRACTICA\ArbolBinarioApp1\obj\Debug\net10.0\ref\ArbolBinarioApp1.dll

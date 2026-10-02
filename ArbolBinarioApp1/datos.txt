@@ -1,0 +1,3 @@
+Directorio_Raiz,Carpeta_Documentos,Carpeta_Imagenes
+Carpeta_Documentos,Archivo_Informe.docx,Archivo_Datos.xlsx
+Carpeta_Imagenes,Foto_Perfil.png,Banner_Logo.jpg
